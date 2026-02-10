@@ -2,18 +2,21 @@
 
 ## Overview
 
-The **ProDev Frontend Engineering Program** is an intensive, hands-on program focused on building strong frontend engineering skills using modern tools, frameworks, and best practices. The program prepares learners to design, build, and maintain scalable web and mobile applications while collaborating effectively with backend teams.
+The **ProDev Engineering Program** is a comprehensive learning journey that covers both **Frontend and Backend Engineering**.  
+The backend track focuses on building scalable server-side applications and APIs, while the frontend track emphasizes creating modern, responsive, and accessible user interfaces that consume these backend services.
+
+This repository serves as a documentation hub for my major learnings as a **ProDev Frontend Engineering learner**, highlighting the tools, technologies, concepts, challenges, and best practices acquired throughout the program.
 
 ### Program Goals
-- Develop solid foundations in frontend engineering.
-- Build responsive, accessible, and maintainable user interfaces.
-- Gain real-world experience with modern frontend tools.
-- Strengthen collaboration skills with backend developers.
+- Build strong foundations in frontend engineering.
+- Develop responsive, accessible, and maintainable applications.
+- Understand how frontend systems integrate with backend services.
+- Prepare learners for real-world, production-level projects.
 
 ### Learning Outcomes
-- Ability to build production-ready web and mobile applications.
-- Strong understanding of frontend architectures and workflows.
-- Experience working in collaborative, cross-functional environments.
+- Ability to build modern web and mobile applications.
+- Strong understanding of frontend architecture and workflows.
+- Improved collaboration skills within cross-functional teams.
 
 ---
 
@@ -22,82 +25,119 @@ The **ProDev Frontend Engineering Program** is an intensive, hands-on program fo
 ### Technologies Covered
 
 - **Web Development**
-  - HTML, CSS, and modern JavaScript
-  - Component-based development using modern frameworks
+  - Semantic HTML, modern CSS, and JavaScript.
+  - Building responsive and accessible user interfaces.
 
 - **Mobile Development**
-  - **React Native** with **Expo** for cross-platform mobile applications
-  - Building reusable components for iOS and Android
-  - Managing navigation, layouts, and mobile UI patterns
+  - **React Native** with **Expo** for cross-platform mobile apps.
+  - Reusable components for iOS and Android platforms.
 
 - **Progressive Web Apps (PWA)**
-  - Offline-first concepts
-  - Performance optimization
-  - Improved user experience on the web
+  - Offline-first concepts.
+  - Performance and user experience optimization.
 
 - **Design & UI Collaboration**
-  - **Figma** for UI/UX design handoff
-  - Translating designs into reusable components
-  - Working with spacing, typography, colors, and layouts
+  - **Figma** for wireframes and prototypes.
+  - Translating UI/UX designs into reusable frontend components.
+  - Working with spacing, typography, colors, and layouts.
+
+---
+
+### Core Topics Covered
+
+- **Semantic HTML**
+  - Writing meaningful and well-structured HTML.
+  - Enhancing accessibility and SEO.
+
+- **Accessibility & SEO**
+  - Following best practices for inclusive web design.
+  - Improving usability for all users.
+
+- **CSS Grid & Flexbox**
+  - Creating complex and responsive layouts.
+  - Building flexible UI structures.
+
+- **TailwindCSS**
+  - Utility-first styling approach.
+  - Rapid development with consistent design systems.
+
+- **CSS Preprocessors (SASS / SCSS)**
+  - Writing modular and reusable styles.
+  - Improving maintainability and scalability.
+
+- **TypeScript**
+  - Adding type safety to JavaScript.
+  - Reducing runtime errors and improving code quality.
+
+- **Figma**
+  - Converting wireframes into production-ready UI.
+  - Maintaining visual consistency between design and implementation.
 
 ---
 
 ### Frontend Concepts
 
 - **Next.js**
-  - Server-side rendering (SSR)
-  - Static site generation (SSG)
-  - Routing and performance optimization
-
-- **TailwindCSS**
-  - Utility-first styling
-  - Rapid UI development
-  - Consistent design systems
-
-- **TypeScript**
-  - Type safety and improved code reliability
-  - Better developer experience and maintainability
+  - Server-Side Rendering (SSR).
+  - Static Site Generation (SSG).
+  - Routing and performance optimization.
 
 - **System Design and Analysis**
-  - Application architecture planning
-  - Scalable frontend structures
-  - State management strategies
+  - Planning scalable frontend architectures.
+  - Structuring applications for long-term growth.
 
 - **API Integration**
-  - Consuming RESTful APIs
-  - Handling asynchronous data
-  - Error handling and loading states
+  - Consuming RESTful APIs.
+  - Handling asynchronous data, loading states, and errors.
+
+- **GraphQL**
+  - Flexible query language for APIs.
+  - Fetching only required data.
+  - Improving performance and reducing over-fetching.
+
+---
+
+## Project Milestones
+
+- Scaffolding and initial project setup.
+- Building responsive listing pages.
+- Implementing detailed property pages.
+- Applying reusable components and responsive layouts.
 
 ---
 
 ## Challenges and Solutions
 
-- **Managing Application State**
-  - Solved by adopting clear state management patterns and reusable hooks.
+- **Maintaining Responsive Layouts**
+  - Solved by using CSS Grid, Flexbox, and Tailwind responsive utilities.
 
 - **Design to Code Consistency**
-  - Solved by relying on Figma specifications and component-driven development.
+  - Solved by closely following Figma designs and component-based development.
 
-- **Performance Optimization**
-  - Solved by code splitting, optimized rendering, and efficient data fetching.
+- **Type Safety and Code Quality**
+  - Solved by adopting TypeScript and enforcing strict typing.
+
+- **API Data Handling**
+  - Solved by implementing proper loading, error handling, and data-fetching patterns.
 
 ---
 
-## Best Practices and Takeaways
+## Best Practices and Personal Takeaways
 
-- Writing **clean, readable, and maintainable code**
-- Building **reusable and scalable components**
-- Following **performance-first** development approaches
-- Maintaining clear communication with backend developers
-- Using design tools like Figma to align UI with product requirements
+- Writing clean, readable, and maintainable code improves scalability.
+- Component-based architecture increases reusability and productivity.
+- Early system design saves development time.
+- Performance optimization is essential for better user experience.
+- Strong collaboration with backend developers leads to smoother integrations.
+- Using Figma ensures alignment between design and implementation.
 
 ---
 
 ## Collaboration
 
-- Collaborating with **ProDev Frontend learners** to share knowledge and improve solutions.
-- Working closely with **ProDev Backend learners** to integrate APIs and backend services.
-- Using the dedicated Discord channel **#ProDevProjectNexus** for communication, support, and updates.
+- Collaborating with **ProDev Frontend learners** to exchange ideas and improve solutions.
+- Working closely with **ProDev Backend learners** to consume APIs and backend services.
+- Communicating through the dedicated Discord channel **#ProDevProjectNexus** for updates, discussions, and support.
 
 ---
 
